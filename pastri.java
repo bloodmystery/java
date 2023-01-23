@@ -1,6 +1,6 @@
 import java.io.*;
  
-class GFG {
+class pastri{
     public int factorial(int i)
     {
         if (i == 0)
@@ -10,7 +10,7 @@ class GFG {
     public static void main(String[] args)
     {
         int n = 4, i, j;
-        GFG g = new GFG();
+        pastri g = new pastri();
         for (i = 0; i <= n; i++) {
             for (j = 0; j <= n - i; j++) {
                 System.out.print(" ");
