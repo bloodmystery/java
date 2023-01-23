@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class main{
+public class year{
  public static void main(String args[]) {
  int m, year, week, day;
  Scanner s = new Scanner(System.in);
